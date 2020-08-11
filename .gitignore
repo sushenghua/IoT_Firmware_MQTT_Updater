@@ -1,0 +1,4 @@
+*.pyc
+*.bin
+*.des
+install/
