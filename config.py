@@ -11,7 +11,7 @@ WORKING_PATH                               = 'fullPahtOfThisDirectory'
 # -------------------------------------------------------------------------------------
 # mqtt
 CA_FILE                                    = ''.join([WORKING_PATH, 'ca/ca.crt'])
-MQTT_BROKER                                = 'someserver.com'
+MQTT_BROKER                                = 'appsgenuine.com'
 MQTT_BROKER_PORT                           = 8883
 
 # -------------------------------------------------------------------------------------
